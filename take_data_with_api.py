@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # API bilgileri
-API_KEY = "970d5a6ce26cfd9e865c85e580b90116"  
+API_KEY = "YOUR API KEY"  
 lat = 41.0351  
 lon = 28.9833  
 
